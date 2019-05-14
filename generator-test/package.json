@@ -1,7 +1,7 @@
 {
-  "name": "whitewalkers",
-  "version": "1.0.0",
-  "description": "",
+  "name": "seer-generator-whitewalkers",
+  "version": "0.0.2",
+  "description": "测试套件",
   "main": "index.js",
   "scripts": {
     "test": "gulp test",
@@ -9,6 +9,9 @@
     "serve": "gulp serve",
     "serve:dist": "gulp serve:dist",
     "test:auto": "gulp test:auto"
+  },
+  "configs": {
+    "compatibleVersion": "0.1.2"
   },
   "repository": {
     "type": "git",
